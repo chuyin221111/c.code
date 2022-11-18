@@ -1,8 +1,0 @@
-﻿  1.c
-D:\test.c.code\Project1\1.c(13,2): warning C4550: 表达式计算为缺少参数列表的函数
-  正在生成代码
-  0 of 4 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
-  已完成代码的生成
-  Project1.vcxproj -> D:\test.c.code\Project1\x64\Release\Project1.exe
